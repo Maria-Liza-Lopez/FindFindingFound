@@ -1,0 +1,59 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: deepskyblue;
+    float: right;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: white;
+}
+
+.label {
+    width: 70px;
+    height: 40px;
+
+}
+
+.checked {
+    color: deepskyblue;
+}
+
+#star {
+    color: orange
+}
+
+#currency {
+    color: orange;
+}
+
+#media {
+    margin-left: 500px;
+}
+
+#line {
+    background-color: orange;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+footer {
+    background-color: #333333;
+    color: white;
+}
