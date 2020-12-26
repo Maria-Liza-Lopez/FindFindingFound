@@ -53,6 +53,13 @@ li a:hover {
     padding-bottom: 30px;
 }
 
+.pic{text-align: left;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 1600px;
+    height: 300px;    
+}
+
 footer {
     background-color: #333333;
     color: white;
